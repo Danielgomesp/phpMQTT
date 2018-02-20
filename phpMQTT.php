@@ -5,7 +5,7 @@ namespace Bluerhinos;
 /*
  	phpMQTT
 	A simple php class to connect/publish/subscribe to an MQTT broker
-
+        Altered: Daniel Gomes Pereira
 */
 
 /*
